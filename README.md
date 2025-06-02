@@ -3,23 +3,22 @@
 
 ----
 ## Have you ever wondering what is the day when you are born?<br>Or, have you ever wonder what day is it when historical events happen? <br><br>Don't worry, we got it for you!
----
 
-<br>With this app, to-day calculator, you can solve your problem above and even more,
+With this app, to-day calculator, you can solve your problem above and even more,
 <br>we have 2 main features:
 1. translate given date to its day of the week
 2. inform about leap year from that date for 2 years ago and later
-   <br>
 
----
-So, how to make use of this app? here's the manual:
-1. you need python installed in your PC/Laptop (Yes currently we only available in desktop)
-2. download this file (attached below)
-3. run the app.py, then input your choosen date (for now its only support gregorian calender)
-4. voila, you now know what day of the week it is from that date
 
 #
-<br>how to download<br> 
+So, how to make use of this app? here's the manual:
+1. you need python installed in your PC/Laptop (Yes, currently we only available in desktop)
+2. download this file (attached below)
+3. run the app.py, then input your choosen date (for now its only support gregorian calender)
+4. voila! now you know what day of the week it is from that date
+
+#
+how to download<br> 
 ![how to download](https://github.com/doni-wahyudi/TASK-REPOSITORY/blob/to-day_calculator/assets/how%20to%20download.png)
 #
 open cmd<br> 
